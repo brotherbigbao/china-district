@@ -3,6 +3,8 @@
   "description": "China district data",
   "minimum-stability": "stable",
   "license": "MIT",
+  "keywords": ["china district", "china region"],
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Yibao Liu",
