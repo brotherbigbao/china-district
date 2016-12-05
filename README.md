@@ -18,3 +18,6 @@ foreach(Data::fetchByThousand() as $thousandDistrict){
     }
 }
 ```
+
+####适用场景
+>新项目数据迁移用
